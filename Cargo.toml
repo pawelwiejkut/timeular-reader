@@ -29,3 +29,4 @@ clap = { version = "4.5.4", features = ["derive"] }
 tinytemplate = "1.1"
 derive_more = "0.99.0"
 strum = { version = "0.26", features = ["derive"] }
+rand = "0.8"
